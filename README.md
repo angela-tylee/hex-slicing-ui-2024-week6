@@ -2,6 +2,9 @@
 
 ## Week 6
 
+![image](https://github.com/user-attachments/assets/489929fb-20f1-4c12-af90-279749156022)
+
+
 ### What I learned
 
 - Bootstrap
