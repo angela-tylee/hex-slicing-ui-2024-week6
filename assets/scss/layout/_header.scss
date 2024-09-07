@@ -1,0 +1,42 @@
+@media (min-width: 992px) {
+  header {
+    height: inherit;
+  }
+}
+
+.navbar-collapse {
+  form.search-container,
+  li.nav-item {
+    margin-top: 24px;
+  }
+  button {
+    margin-top: 40px;
+  }
+}
+
+@media (min-width: 992px) {
+  .navbar-collapse {
+    form.search-container,
+    li.nav-item {
+      margin-top: inherit;
+    }
+    button {
+      margin-top: inherit;
+    }
+  }
+}
+
+.navbar-brand {
+  margin-right: 36.6px;
+}
+
+.search-container {
+  position: relative;
+}
+
+.icon-search {
+  position: absolute;
+  top: 50%;
+  right: 8%;
+  transform: translateY(-50%);
+}
